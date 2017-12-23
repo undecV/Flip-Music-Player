@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Flip</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="UI_Music">Music: </string>
+    <string name="UI_openFile">Open</string>
+    <string name="UI_Lyric">Lyric: </string>
+    <string name="UI_Play">Play</string>
+    <string name="UI_Pause">Pause</string>
+    <string name="UI_Stop">Stop</string>
+    <string name="UI_Statue">Statue: </string>
+
+    <string name="ERR_Permission">若無授權本程式無法運作。</string>
+</resources>
