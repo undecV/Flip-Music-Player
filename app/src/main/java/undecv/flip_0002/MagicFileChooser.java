@@ -3,6 +3,10 @@ package undecv.flip_0002;
 /**
  *  Android 如何選取圖片或是檔案？ | MagicLen
  *  https://magiclen.org/android-filechooser/
+ *  
+ *  License: CC BY-NC-ND 4.0
+ *  https://magiclen.org/copyright/
+ *  https://creativecommons.org/licenses/by-nc-nd/4.0/
  */
 
 import java.io.File;
