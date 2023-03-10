@@ -1,9 +1,8 @@
 # Flip music player
 
-**Flip music player** is a android music player with LRC.
+**Flip** is an android music player with lyrics (LRC) support.
 
-final exam of 2016 ANDROID PROGRAMMING.
-
+This is the final term project of Feng Chia University 2016 ANDROID PROGRAMMING.
 
 ## License
 
